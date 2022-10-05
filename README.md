@@ -1,2 +1,2 @@
-# alter2.uz
+# Name
 github
