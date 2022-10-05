@@ -1,2 +1,2 @@
-# Name
+# Abdusodir Mamadjonov.
 github
