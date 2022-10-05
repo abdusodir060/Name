@@ -1,2 +1,2 @@
-# Abdusodir Mamadjonov.
+# Abdusodir Mamadjonov
 github
